@@ -108,6 +108,8 @@ Building Production AI Systems
 
 ---
 
+![snake gif](https://github.com/gowtham-subramanian/gowtham-subramanian/blob/output/github-snake-dark.svg)
+
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
