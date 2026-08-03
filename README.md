@@ -37,6 +37,17 @@ Building Production AI Systems
 
 </p>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowtham-subramanian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-subramanian&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gowtham-subramanian&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 > 🚧 This GitHub profile is under active development.
