@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner/Github_profile_banner_v01.png" alt="GitHub Banner" width="100%" />
+  <img src="assests/banner/Github_profile_banner_v01.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gowtham Subramanian</h1>
