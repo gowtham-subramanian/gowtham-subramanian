@@ -40,12 +40,12 @@ Building Production AI Systems
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gowtham-subramanian&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-subramanian&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gowtham-subramanian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-subramanian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gowtham-subramanian&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=gowtham-subramanian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
