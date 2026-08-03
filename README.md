@@ -62,6 +62,14 @@ Building Production AI Systems
 <p align="center">
   <img src="https://raw.githubusercontent.com/gowtham-subramanian/gowtham-subramanian/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gowtham-subramanian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
+---
 
 # 🚀 Featured Projects
 
