@@ -48,6 +48,13 @@ Building Production AI Systems
   <img width="70%" src="https://streak-stats.demolab.com?user=gowtham-subramanian&theme=tokyonight&hide_border=true" />
 </p>
 
+## 👨‍💻 About Me
+
+- 🤖 AI Engineer passionate about building production-ready AI systems
+- 🧠 Currently learning LLMs, RAG, AI Agents, and MLOps
+- 🐍 Python-first developer with a focus on backend AI applications
+- 🚀 Building real-world AI portfolio projects
+- 🎯 Goal: Principal AI Engineer
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -55,5 +62,32 @@ Building Production AI Systems
 </p>
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 AI Resume Analyzer | Resume parsing & AI-powered analysis | 🚧 In Progress |
+| 🧠 Enterprise RAG | Production-ready Retrieval-Augmented Generation | 🚧 In Progress |
+| 🤖 AI Agent Platform | Multi-agent AI automation platform | 🚧 In Progress |
+| 📊 MLOps Pipeline | End-to-end ML deployment pipeline | 🚧 In Progress |
+| 👁️ Computer Vision | Deep learning & computer vision projects | 🚧 In Progress |
+| 🎬 YouTube AI Studio | End-to-end AI video automation platform | 🚧 In Progress |
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gowtham90.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gowtham-subramanian">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 > 🚧 This GitHub profile is under active development.
