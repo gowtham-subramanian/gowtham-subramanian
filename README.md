@@ -9,11 +9,7 @@ Building Production AI Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;GenAI+Engineer;FastAPI+Developer;RAG+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&repeat=true&random=false&lines=AI+Engineer;Building+Production+AI+Systems;GenAI+%7C+LLMs+%7C+RAG;FastAPI+%7C+Docker+%7C+Python;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&repeat=true&random=false&lines=%F0%9F%9A%80+Building+Production+AI+Systems;%F0%9F%A4%96+Generative+AI+Engineer;%F0%9F%90%8D+Python+Developer;%E2%9A%A1+FastAPI+%E2%80%A2+Docker+%E2%80%A2+RAG;%F0%9F%92%A1+Learning+Something+New+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
