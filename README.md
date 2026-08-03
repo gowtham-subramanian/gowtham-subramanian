@@ -57,6 +57,12 @@ Building Production AI Systems
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gowtham-subramanian/gowtham-subramanian/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
 # 🚀 Featured Projects
 
 | Project | Description | Status |
@@ -108,7 +114,6 @@ Building Production AI Systems
 
 ---
 
-![snake gif](https://github.com/gowtham-subramanian/gowtham-subramanian/blob/output/github-snake-dark.svg)
 
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
