@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gowtham Subramanian</h1>
 
 <h3 align="center">
