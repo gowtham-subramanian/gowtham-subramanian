@@ -18,11 +18,12 @@ Building Production AI Systems
 
 # 👨‍💻 About Me
 
-- 🤖 AI Engineer passionate about building production-ready AI systems
-- 🧠 Currently learning LLMs, RAG, AI Agents and MLOps
-- 🐍 Python-first developer focused on AI backend applications
-- 🚀 Building real-world AI portfolio projects
-- 🎯 Goal: Principal AI Engineer
+- 🤖 AI Engineer focused on building reliable, production-ready AI systems
+- 🐍 Developing strong Python and Software Engineering foundations through hands-on projects
+- 🧠 Learning Generative AI, LLMs, RAG, AI Agents, and Machine Learning
+- 🏗️ Practicing modular architecture, clean code, automated testing, and engineering best practices
+- 🚀 Building practical AI projects with an emphasis on maintainability, scalability, and deployment
+- 🎯 Long-term goal: Principal AI Architect
 
 ---
 
@@ -75,12 +76,13 @@ Building Production AI Systems
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🤖 AI Resume Analyzer | Resume parsing & AI-powered analysis | 🚧 In Progress |
-| 🧠 Enterprise RAG | Production-ready Retrieval-Augmented Generation | 🚧 In Progress |
-| 🤖 AI Agent Platform | Multi-agent AI automation platform | 🚧 In Progress |
-| 📊 MLOps Pipeline | End-to-end ML deployment pipeline | 🚧 In Progress |
-| 👁️ Computer Vision | Deep Learning & Computer Vision | 🚧 In Progress |
-| 🎬 YouTube AI Studio | AI-powered YouTube Automation Platform | 🚧 In Progress |
+| 🛠️ [NOVA — Intelligent Operations Console](https://github.com/gowtham-subramanian/nova-intelligent-operations-console) | Python software engineering, domain modeling, services, repositories, and automated testing | 🚧 Active Learning Project |
+| 🧠 Nexus AI Platform | Modular AI platform engineering and production-ready application foundations | 📋 Roadmap |
+| 🏗️ ORION — Modular AI Platform | AI runtime, evaluation, observability, identity, and governance architecture | 📋 Planned |
+| 🔎 OSIRIS — Intelligence Dashboard | Intelligence dashboard with data integration and AI-assisted analysis | 📋 Planned |
+| 📚 Enterprise RAG Platform | Retrieval-Augmented Generation, embeddings, retrieval quality, and evaluation | 📋 Planned |
+| 🤖 AI Agent Platform | Tool use, workflow orchestration, and reliable AI agent execution | 📋 Planned |
+| 🛡️ AI Cybersecurity Intelligence Platform | Threat intelligence, evidence correlation, and AI-assisted security analysis | 📋 Future Roadmap |
 
 ---
 
@@ -88,6 +90,8 @@ Building Production AI Systems
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gowtham-subramanian&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
+
+> 🚧 This portfolio evolves alongside my Software Engineering and AI Engineering mentorship, with projects progressing from foundational Python applications to production-ready AI systems.
 </p>
 
 ---
