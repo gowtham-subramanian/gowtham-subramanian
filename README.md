@@ -91,7 +91,7 @@ Building Production AI Systems
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gowtham-subramanian&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
 
-> 🚧 This portfolio evolves alongside my Software Engineering and AI Engineering mentorship, with projects progressing from foundational Python applications to production-ready AI systems.
+>> 🚧 This GitHub profile is evolving alongside my Software Engineering and AI Engineering mentorship, with projects progressing from foundational Python applications toward production-ready AI systems.
 </p>
 
 ---
